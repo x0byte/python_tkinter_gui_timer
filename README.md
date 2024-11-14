@@ -31,4 +31,4 @@ How to Use
   3) Time's Up: Once the countdown hits zero, a beeping sound will be played, and the label will display "TIME'S UP!".
 
 ## This is what it looks like:
-<img src="Assets/screenshot.png" alt="Calculator UI" width="500"/>
+<img src="Assets/screenshot.png" alt="Timer UI" width="500"/>
